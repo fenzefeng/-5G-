@@ -1,7 +1,6 @@
 # 5G赛道数据集
 
-[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/travis/fenzefeng/-5G-.svg)](https://travis-ci.org/fenzefeng/-5G-)
 
 ## 目录
 1. [介绍](#介绍)
