@@ -1,4 +1,4 @@
-# 项目名称
+# 5G赛道数据集
 
 [![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -14,9 +14,7 @@
 5. [贡献](#贡献)
 6. [致谢](#致谢)
 
-## 安装
+## 下载
 
 ```bash
-git clone https://github.com/username/repo.git
-cd repo
-pip install -r requirements.txt
+git clone https://github.com/fenzefeng/-5G-.git
