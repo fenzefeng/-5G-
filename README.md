@@ -1,7 +1,5 @@
 # 5G赛道数据集
 
-[![Build Status](https://img.shields.io/travis/fenzefeng/-5G-.svg)](https://travis-ci.org/fenzefeng/-5G-)
-
 ## 目录
 1. [介绍](#介绍)
 2. [下载](#下载)
